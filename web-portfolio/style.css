@@ -17,9 +17,7 @@ h1{
 .HALF-WIDTH img{
     width: 100%;
 }
-.top-banner{
-    background-image: url(images/top-banner.png)
-}
+
 section{
     height: 500px;
 }
@@ -35,3 +33,13 @@ section{
 .MURGI{
     color: purple;
 }
+
+.dream-area{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    }
+    .top-banner{
+        background-image: url(images/dream-bg.png);
+        background-repeat: no-repeat;
+        background-position: right;
+    }
